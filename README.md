@@ -17,3 +17,6 @@ This repository contains the redesigned logo files for Social Coding. Usage guid
     - Use the `svg` files whenever possible
     - If for whatever reason you cannot use the vector images, `png` versions are available in various sizes
     - If using the `png` files, use the highest-resolution version possible
+
+- If you need the logo in another format, use the provided Figma file to render to whatever format you need
+    - The figma file also contains a key for the colors used in the logo variants
